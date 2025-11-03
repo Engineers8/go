@@ -1,0 +1,5 @@
+place the square in path
+
+c://program file// go // src and paste square folder
+
+then run go run your filename.go
